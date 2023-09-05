@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 44,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -9,9 +9,9 @@
     "net_color_mode": 1,
     "opacity": {
       "images": 1.0,
-      "pads": 0.6600000262260437,
-      "tracks": 0.8799999952316284,
-      "vias": 1.0,
+      "pads": 0.5299999713897705,
+      "tracks": 0.7300000190734863,
+      "vias": 0.7400000095367432,
       "zones": 1.0
     },
     "selection_filter": {
@@ -61,14 +61,27 @@
       39,
       40
     ],
-    "visible_layers": "fffff7f_ffffffff",
-    "zone_display_mode": 0
+    "visible_layers": "0015050_80000007",
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "k1-aioc.kicad_prl",
     "version": 3
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "k1-aioc.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 0,
+          "pos_y": 0,
+          "size_x": 1280,
+          "size_y": 720
+        }
+      }
+    ]
   }
 }
